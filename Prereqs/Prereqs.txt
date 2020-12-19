@@ -1,0 +1,18 @@
+****Install OpenCV
+pip install opencv-python
+conda install -c menpo opencv3=3.1.0
+conda install -c conda-forge opencv=3.2.0
+****Filtering EMG
+pip install EMD-signal
+****DLIB
+conda install -c conda-forge dlib=19.4  
+****Keras
+conda install -c conda-forge keras=2.0.2
+****Scipy
+conda install -c anaconda scipy
+****Statsmodels
+conda install statsmodels
+****Astropy
+conda install astropy
+****scikit-image
+conda install scikit-image

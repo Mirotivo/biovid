@@ -1,0 +1,12 @@
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\LSTM.exe.config
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\LSTM.exe
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\LSTM.pdb
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\Cntk.Core.Managed-2.7.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\Keras.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\Numpy.Bare.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\bin\Debug\Python.Runtime.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\obj\Debug\LSTM.csprojAssemblyReference.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\obj\Debug\LSTM.csproj.CoreCompileInputs.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\obj\Debug\LSTM.csproj.CopyComplete
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\obj\Debug\LSTM.exe
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM\obj\Debug\LSTM.pdb

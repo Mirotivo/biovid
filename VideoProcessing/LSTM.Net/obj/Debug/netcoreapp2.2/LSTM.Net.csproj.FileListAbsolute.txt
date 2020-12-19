@@ -1,0 +1,11 @@
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\bin\Debug\netcoreapp2.2\LSTM.Net.deps.json
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\bin\Debug\netcoreapp2.2\LSTM.Net.runtimeconfig.json
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\bin\Debug\netcoreapp2.2\LSTM.Net.runtimeconfig.dev.json
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\bin\Debug\netcoreapp2.2\LSTM.Net.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.csprojAssemblyReference.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.csproj.CoreCompileInputs.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.AssemblyInfoInputs.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.AssemblyInfo.cs
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\bin\Debug\netcoreapp2.2\LSTM.Net.pdb
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.dll
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\LSTM.Net\obj\Debug\netcoreapp2.2\LSTM.Net.pdb

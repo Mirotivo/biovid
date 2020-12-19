@@ -1,0 +1,7 @@
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\bin\Debug\BioVid.exe.config
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\bin\Debug\BioVid.exe
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\bin\Debug\BioVid.pdb
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\obj\Debug\BioVid.csprojAssemblyReference.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\obj\Debug\BioVid.csproj.CoreCompileInputs.cache
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\obj\Debug\BioVid.exe
+C:\Users\Amr Mostafa\OneDrive\Thesis\BioVid\VideoProcessing\BioVid\obj\Debug\BioVid.pdb

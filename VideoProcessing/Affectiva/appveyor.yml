@@ -1,0 +1,28 @@
+version: 1.0.{build}
+image:
+- Visual Studio 2013
+
+before_build:
+- cmd:
+    appveyor DownloadFile https://download.affectiva.com/windows/AffdexSDK-3.3.0-522-win64.exe -FileName AffdexSDK-win64.exe
+
+    AffdexSDK-win64.exe /S
+
+    nuget restore csharp-sample-app.sln
+build:
+  project: csharp-sample-app.sln
+  parallel: true
+  verbosity: detailed
+after_build:
+- cmd:
+    echo d | xcopy /E "C:\Program Files\Affectiva\AffdexSDK\data" bin\x64\Release\data
+artifacts:
+- path: 'bin\x64\Release'
+deploy:
+- provider: GitHub
+  release: csharp-sample-app-v$(appveyor_build_version)
+  artifact: 'bin\x64\Release.zip'
+  auth_token:
+    secure: G5K3IGcTqp7Sv1UCMozsEzJFfw5CKPCyw968jXR+efF4qeYs7fZUngteB22vXhhq
+  on:
+    branch: master                 # release from master branch only
